@@ -44,7 +44,7 @@ body {
     font-weight: 700;
     line-height: 15.2px;
     letter-spacing: 1.5px;
-    color: black;
+    color: #2C2830;
     border: 2px solid black;
 
 }
@@ -401,4 +401,55 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+}
+
+.x:hover {
+    cursor: pointer;
+    background-color: #2C2830;
+    height: 24px;
+    width: 24px;
+}
+
+.ig:hover {
+    cursor: pointer;
+    background-color: #2C2830;
+    height: 24px;
+    width: 24px;
+}
+
+.face:hover {
+    cursor: pointer;
+    background-color: #2C2830;
+    height: 24px;
+    width: 24px;
+    border-radius: 15px;
+}
+
+.pint:hover {
+    cursor: pointer;
+    background-color: #2C2830;
+    height: 24px;
+    width: 24px;
+    border-radius: 99px;
+}
+
+.how:hover{
+    cursor: pointer;
+    color: #2C2830;
+
+}
+
+.blog:hover{
+    cursor: pointer;
+    color: #2C2830;
+}
+
+.acc:hover {
+    cursor: pointer;
+    color: #2C2830;
+}
+
+.why:hover {
+    cursor: pointer;
+    text-decoration: underline;
 }
