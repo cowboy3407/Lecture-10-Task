@@ -99,6 +99,7 @@ body {
     border: 1px solid white;
     background-color: #2D2641;
     margin-bottom: 127px;
+z-index: 1;
 }
 
 .just {
@@ -115,6 +116,7 @@ body {
     font-family: "Karla", sans-serif;
     color: black;
     cursor: pointer;
+    z-index: 1;
 }
 
 .btn1:hover {
@@ -375,6 +377,7 @@ body {
     letter-spacing: 1.5px;
     color: #837D88;
     display: block;
+    z-index: 1;
 }
 
 .why {
@@ -383,6 +386,7 @@ body {
     line-height: 15.2px;
     letter-spacing: 1.5px;
     color: #2D2641;
+    z-index: 1;
 }
 
 .eqs {
