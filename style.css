@@ -99,7 +99,7 @@ body {
     border: 1px solid white;
     background-color: #2D2641;
     margin-bottom: 127px;
-z-index: 1;
+z-index: 3;
 }
 
 .just {
@@ -116,7 +116,7 @@ z-index: 1;
     font-family: "Karla", sans-serif;
     color: black;
     cursor: pointer;
-    z-index: 1;
+    z-index: 3;
 }
 
 .btn1:hover {
@@ -261,7 +261,7 @@ z-index: 1;
     font-weight: 700;
     line-height: 15.2px;
     letter-spacing: 1.5px;
-    background-color: #2D2641;
+    background-color: transparent;
     color: white;
     border: 1px solid white;
     z-index: 1;
