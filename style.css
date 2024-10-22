@@ -89,6 +89,7 @@ body {
 }
 
 .btn2 {
+    position: static;
     width: 146px;
     height: 40px;
     font-size: 13px;
